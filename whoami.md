@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Whoami
+title: /Whoami
 permalink: /whoami/
 ---
 
