@@ -5,7 +5,6 @@ permalink: /
 ---
 
 <p id="blog-logo">
-	::before
 	<img src="/Chiyo-chan.png" alt="Blog logo">
 </p>
 
