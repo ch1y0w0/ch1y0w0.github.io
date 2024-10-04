@@ -3,9 +3,7 @@ title: /~
 layout: home
 permalink: /
 ---
-<p align="center">
-  <img src="/Chiyo-chan.png" style="border-radius: 50%;" />
-</p>
+![Avatar](https://avatars.githubusercontent.com/u/74054557?v=4&size=256)
 
 # Welcome To My Blog!
 
