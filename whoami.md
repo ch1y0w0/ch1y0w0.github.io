@@ -6,7 +6,7 @@ permalink: /whoami/
 
 
 
-# Whoami
+# whoami
 
 I'm currently 18. I've been coding since I was really young, and I got into the cybersecurity field by learning CEH. I've learned everything self-taught by watching YouTube tutorials, reading books, articles, and posts, and most importantly, getting my hands on practical, real-world examples.  
 Skills and concepts that I’ve learned and found interesting:
@@ -25,7 +25,7 @@ I love watching anime and gaming *(mostly indie games)*.
  - [X](https://x.com/ch1y0w0) *(I answer direct messages)*
  - [GitHub](https://github.com/ch1y0w0)
 
-# Pwd
+# pwd
 
 I decided to share my learning journey to help the cybersecurity community, especially those who are new to this field. I share things that I'm currently learning and find helpful, such as articles, research, books, tutorials, tools, and even walkthroughs on my own projects.  
 I try to keep my posts simple and helpful, and I hope they prove useful for others too! <3

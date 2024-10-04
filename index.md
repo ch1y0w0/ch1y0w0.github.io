@@ -5,8 +5,7 @@ permalink: /
 ---
 
 <p align="center">
-    <span style="display: inline-block; border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-        <img src="/Chiyo-chan.png" alt="Blog logo" style="width: 150px; height: auto;">
+        <img src="/Chiyo-chan2.png">
     </span>
 </p>
 
