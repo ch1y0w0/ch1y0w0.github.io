@@ -6,7 +6,6 @@ permalink: /
 
 <p align="center">
         <img src="/Chiyo-chan2.png">
-    </span>
 </p>
 
 # Welcome To My Blog!
