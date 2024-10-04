@@ -5,12 +5,12 @@ url: "https://ch1y0w0.github.io"
 
 header_pages:
   - index.md
-  - about.md
+  - whoami.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://x.com/ch1y0w0">X</a>'
+footer: 'Follow me on <a href="https://x.com/ch1y0w0">X</a>'
 
 # Build settings
 markdown: kramdown
