@@ -3,7 +3,7 @@ title: /~
 layout: home
 permalink: /
 ---
-![Avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/74054557?v=4&size=256&w=300&fit=cover&mask=circle&maxage=7d)
+![Avatar]![Picture](/Chiyo-chan.png){ width="256" height="256" style="display: block; margin: 0 auto; border-radius: 50%;" }
 
 # Welcome To My Blog!
 
