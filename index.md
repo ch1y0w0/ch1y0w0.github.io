@@ -3,8 +3,10 @@ title: /~
 layout: home
 permalink: /
 ---
-<p align="center">
-![Avatar](/Chiyo-chan.png)
+
+<p id="blog-logo">
+	::before
+	<img src="/Chiyo-chan.png" alt="Blog logo">
 </p>
 
 # Welcome To My Blog!
