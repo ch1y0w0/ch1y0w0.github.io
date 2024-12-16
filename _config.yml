@@ -10,6 +10,7 @@ header_pages:
 style: dark
 
 footer: 'Follow me on <a href="https://x.com/ch1y0w0">X</a>'
+google_analytics: bzp1ByI8nrPbZzXdKyBRTyJFNKk8cYDZ-jlsORfjmxk
 
 # Build settings
 markdown: kramdown
