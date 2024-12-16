@@ -53,6 +53,7 @@ You also might have used tools like Burp Suite, ZAProxy etc. They're implementat
 
 If you're like me and understand things better when doing it practically, here's a simple implementation in Python:
 
+
 ```python
 import socket
 
@@ -104,11 +105,14 @@ while True:
     # Handle the client connection
     handle_client(client_socket)
 ```
+
+
 I used `socket` library to listen for connection on `HOST`:`PORT`, Extract the packet's destination, forward the packet to it, wait for its response, and finally forward the server's response to the client. It's a quiet simple example. How can this simple example be helpful? Imagine you're in a restricted location and can't access some services. You can run a simple **Forward proxy** on a server located in an unrestricted network and set that server's IP:PORT as your proxy server. Your each request will first reach the unrestricted server, then from the server to the destination, response from the destination to server and finally from the server to you. 
 
 *Note: As we're working on basics, this code only works with HTTP requests and not HTTPS. So when testing, make sure to check a HTTP website like `neverssl.com` or `httpbin.org/get`*
 
-Let's take some more examples like content filtering. Let's say you don't want to let your clients in your network to access `neverssl.com`(for no reason). We can tell our code to check the packet's destination. If it's `neverssl.com`, then simply don't send it. Let's add a function to check the destination
+Let's take some more examples like content filtering. Let's say you don't want to let your clients in your network to access `neverssl.com`(for no reason). We can tell our code to check the packet's destination. If it's `neverssl.com`, then simply don't send it. Let's add a function to check the destination:
+
 
 ```python
 def is_neverssl(request_line):
@@ -118,7 +122,9 @@ def is_neverssl(request_line):
 		return False
 ```
 
+
 Now add this check to this section:
+
 
 ```python
 # Extract the target host from the request (first line)
@@ -134,5 +140,6 @@ if is_neverssl:
 target_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 target_socket.connect((target_host, 80))  # Assuming HTTP traffic on port 80
 ```
+
 
 Well, it's a nasty method but it works for simple tests and debuggings. I just wanted to show some of its applications in a practical way. 
