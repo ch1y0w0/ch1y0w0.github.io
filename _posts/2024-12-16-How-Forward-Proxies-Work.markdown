@@ -143,3 +143,4 @@ target_socket.connect((target_host, 80))  # Assuming HTTP traffic on port 80
 
 
 Well, it's a nasty method but it works for simple tests and debuggings. I just wanted to show some of its applications in a practical way. 
+Here's a simple **Forward Proxy** implementation i created in Python and i'm still developing it for my personal use: [CLIntercept](https://github.com/ch1y0w0/CLIntercept/)
