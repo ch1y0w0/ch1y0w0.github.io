@@ -7,7 +7,7 @@ permalink: /whoami/
 
 # whoami
 
-I'm 18, and I've been coding since I was very very young. I got into cybersecurity after a while. I learned everything myself by watching tutorials, reading books, articles, posts, and most importantly, by getting hands-on practice.
+I'm 20, and I've been coding since I was very very young. I got into cybersecurity after a while. I learned everything myself by watching tutorials, reading books, articles, posts, and most importantly, by getting hands-on practice.
 
 My main focus is web application security, But in my free time, i also explore binary exploitation, malware analysis and AI/ML security. I also code a lot *(Mostly python)* to automate my tasks and develop tools that can make boring things easier *(Mostly related to pentesting)* and publish them on my github to improve the open-source community.
 
