@@ -31,7 +31,7 @@ Let's plot the coordinate:
 
 Now imagine calculating the $y$ for all $x \in R$:
 
-![Plotting all numbers to infinity](https://github.com/ch1y0w0/ch1y0w0.github.io/blob/master/_posts/Pasted%20image(2).png)
+![Plotting all numbers to infinity](https://github.com/ch1y0w0/ch1y0w0.github.io/blob/master/_posts/Pasted%20image%20(2).png)
 
 They form a line.
 
