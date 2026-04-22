@@ -27,11 +27,11 @@ So the coordinates are:
 $$(2, 8)$$
 Let's plot the coordinate:
 
-![Plotting point $(2,8)$](Pasted%20image.png)
+![Plotting point $(2,8)$](https://github.com/ch1y0w0/ch1y0w0.github.io/blob/master/_posts/Pasted%20image.png)
 
 Now imagine calculating the $y$ for all $x \in R$:
 
-![Plotting all numbers to infinity](Pasted%20image%20(2).png)
+![Plotting all numbers to infinity](https://github.com/ch1y0w0/ch1y0w0.github.io/blob/master/_posts/Pasted%20image(2).png)
 
 They form a line.
 
