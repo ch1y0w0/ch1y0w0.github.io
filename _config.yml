@@ -7,6 +7,9 @@ header_pages:
   - index.md
   - whoami.md
 
+plugins:
+  - jekyll-seo-tag   
+
 style: dark
 
 footer: 'Follow me on <a href="https://x.com/ch1y0w0">X</a>'
