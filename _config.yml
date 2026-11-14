@@ -1,7 +1,7 @@
 title: 'Chiyo'
 description: "My Personal Blog"
 baseurl: "/"
-url: "https://ch1y0w0.github.io"
+url: "https://ch1y0w0.blog"
 
 header_pages:
   - index.md
