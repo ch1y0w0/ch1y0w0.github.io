@@ -17,6 +17,9 @@ I love watching anime and gaming (mostly indie games).
  - [X](https://x.com/ch1y0w0) *(DM's open)*
  - [GitHub](https://github.com/ch1y0w0)
 
+#### My E-Mail
+ - [chiyo@ch1y0w0.blog](mailto:chiyo@ch1y0w0.blog)
+
 # pwd
 
 I decided to share my learning journey to help the cybersecurity community, especially those who are new to this field. I share things that I'm currently learning and find helpful, such as articles, research, books, tutorials, tools, and even walkthroughs on my own projects.
